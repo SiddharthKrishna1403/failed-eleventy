@@ -23,10 +23,11 @@
   },
   "homepage": "https://github.com/singhkunal2050/singhkunal2050v2#readme",
   "dependencies": {
-    "@11ty/eleventy": "^0.12.1",
-    "eleventy-critical-css": "^1.0.0",
+    "@11ty/eleventy": "^2.0.1",
+    "eleventy-critical-css": "^2.0.2",
     "eleventy-plugin-pwa": "^1.0.8",
-    "node-sass": "^6.0.1"
+    "lodash.template": "^4.5.0",
+    "node-sass": "^9.0.0"
   },
   "devDependencies": {
     "@11ty/eleventy-plugin-syntaxhighlight": "^3.1.2",
